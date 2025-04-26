@@ -41,9 +41,8 @@ Your application will be available at `http://localhost:3000`. That's it! You ar
 
 ---
 
-## 📄 License
+## Watch the full video on Loom: [Loom video](https://www.loom.com/share/38fe88dcabcd465b9b4e77232c129720?sid=a5053984-16df-4cb0-9c0b-e39b333632b8)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
